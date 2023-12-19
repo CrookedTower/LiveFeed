@@ -1,4 +1,4 @@
-
+[..\LiveFeedLogo.png]
 ## You’re All in This Together
 You are a crew member on BEGONE!, a floundering supernatural investigation series. You and your fellow crew members travel to haunted locations to investigate the sites and cleanse them of unwanted entities, and you do it all live on TV. But dust mites and creaking floorboards are only interesting for so long, and live broadcasts are expensive. The show has eaten through its budget and the audience’s attention span; unless you catch something supernatural on camera, this supernatural show is destined for the grave.
 The show’s budget can cover one final investigation. Tonight you get one last site, one last broadcast, and one last chance to make BEGONE! a hit.
